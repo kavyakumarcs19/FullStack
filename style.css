@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(207, 204, 204);
+}
+
+h1 {
+    color: aliceblue;
+    text-transform: uppercase;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+div {
+    float: left;
+    margin-left: 15px !important;
+    width: 20%;
+    background: white;
+    margin: 5px;
+    text-align: justify;
+    text-overflow: inherit;
+    padding: 20px;
+    box-sizing: inherit;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+img {
+    width: 250px;
+    height: 150px;
+    border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+}
+
+.button1 {
+    display: block;
+    color: aliceblue;
+    padding: 10px 10px;
+    width: 100%;
+    border: none;
+    background-color: blue;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+button {
+    display: block;
+    color: aliceblue;
+    padding: 10px 10px;
+    width: 100%;
+    border: none;
+    background-color: red;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
